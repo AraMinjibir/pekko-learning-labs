@@ -1,7 +1,7 @@
 # pekko-learning-labs
 
 
-Hands-on eercises for Apache Pekko Typed actors (Scala 2.13).
+Hands-on exercises for Apache Pekko Typed actors (Scala 2.13).
 
 
 This repository contains multiple small exercises demonstrating typed actors experience:
